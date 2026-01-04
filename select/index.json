@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "C",
+  "base_artist": "10",
+  "createdAt": "2026-01-04T02:19:23.436435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/01_C-O-U-N-T-R-Y_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/02_C-O-U-N-T-R-Y_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C.C. Waterback",
+      "artist": "Merle Haggard feat. George Jones",
+      "has_synced": true,
+      "path": "select/03_C.C._Waterback_Merle_Haggard_feat._George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C.C. Waterback (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/04_C.C._Waterback_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_D-I-V-O-R-C-E_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/06_D-I-V-O-R-C-E_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Divorce Me C.O.D.",
+      "artist": "Merle Travis",
+      "has_synced": false,
+      "path": "select/07_Divorce_Me_C.O.D._Merle_Travis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Never Can Tell (C' Est la Vie)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/08_You_Never_Can_Tell_(C'_Est_la_Vie)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "B&C (Album Version)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/09_B&C_(Album_Version)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "B&C -Album Version-",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/10_B&C_-Album_Version-_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O.O.C.",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/11_O.O.C._Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't C Me",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_Can't_C_Me_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chienne de Vie (Feat. L.E.C.K)",
+      "artist": "Sniper",
+      "has_synced": true,
+      "path": "select/13_Chienne_de_Vie_(Feat._L.E.C.K)_Sniper.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cut Master C Shit",
+      "artist": "50 Cent feat. G Unit",
+      "has_synced": true,
+      "path": "select/14_Cut_Master_C_Shit_50_Cent_feat._G_Unit.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cut Master C Shit",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/15_Cut_Master_C_Shit_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Disco Inferno (Produced by C. Styles and Bang Out for Dangerous LLC)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/16_Disco_Inferno_(Produced_by_C._Styles_and_Bang_Out_for_Dangerous_LLC)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Do Your Time (feat. Beanie Sigel, Pimp C & C-Murder)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/17_Do_Your_Time_(feat._Beanie_Sigel,_Pimp_C_&_C-Murder)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "In My Hood (Produced by C. Styles and Bang Out for Dangerous LLC)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/18_In_My_Hood_(Produced_by_C._Styles_and_Bang_Out_for_Dangerous_LLC)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sucker M.C.'s (Krush-Groove 1)",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/19_Sucker_M.C.'s_(Krush-Groove_1)_Run-DMC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cartoon film",
+      "artist": "104",
+      "has_synced": false,
+      "path": "select/pl_01_Cartoon_film_104.txt"
+    }
+  ]
+}
